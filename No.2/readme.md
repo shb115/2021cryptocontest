@@ -1,1 +1,3 @@
-한범이가 추후 코드 정리해서 보내준다고 함
+integral attack을 통해 k1 xor k0prime 복원
+
+brute force attack을 통해 k 복원
